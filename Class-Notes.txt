@@ -1,0 +1,463 @@
+Java Realtime Projects Development
+----------------------------------
+
+Pre-Requisites
+--------------
+1) Core Java
+	- java.lang package
+	- Arrays
+  	- OOPS
+	- Collections
+	- Multi Threading
+	- I/O Streams
+	- Annotations
+	- Generics
+	- Exception Handling
+	- Reflection API
+	- Java 8 Features
+	- java.net
+	- javax.security
+
+2) Adv Java
+	- JDBC
+	- Servlets
+	- JSP
+	- Connection Pooling
+	- Web Server & Application Server
+
+3) Frameworks
+	- Hibernate
+	- Spring (Spring Core and Spring MVC)
+	- Restful Services
+
+4) Database
+	- Oracle | MySQL
+
+==================================================================
+
+Course Content
+--------------
+1) Introduction of Project
+	- Types of Projects
+	- Types of Companies
+
+2) Functional Domain 
+
+3) Technical Domain
+
+4) Project Teams
+	- Onshore Team
+	- Offshore Team
+
+5) SDLC
+
+6) TDD
+
+7) FDD
+
+
+Realtime tools
+---------------
+SVN
+GIT HUB
+Maven / Gradle
+Log4J
+JUnit
+Mockito
+JIRA
+Jenkins
+Putty
+WinScp
+Splunk
+Docker
+PMD and SonarQube
+Jacocco
+Linux Commands
+
+
+Spring Boot
+Spring Data
+SPring Rest
+Spring Cloud
+MicroServices
+JQuery with AJAX
+Apache Kafka
+Java Mail API
+Twillo API
+Spring Schedular
+
+
+Duration : 2 to 2.5 months
+timings : 7 am to 9 am
+
+Daily 2 logical programs as assignments
+Mock Interviews
+Resume Preparation
+Interview Questions
+
+
+Email : ashok.javatraining@gmail.com
+Facebook Group : Ashok IT School
+Youtube Channel : Ashok IT School
+
+====================================================================
+
+
+Coding Test
+
+Technical Round-1
+
+Technical Round-2
+
+Manager Round
+
+HR 
+--------------------------------
+Techinicle-1 (Telephonic)
+
+Technical-2 (face to face)
+
+Manager 
+
+Client Round (Skype)
+
+HR
+----------------------------------
+
+Technical
+
+Manager
+
+HR
+
+
+
+6-9 am - Project class
+
+9 - 9:30 - Break Fast
+
+10:00 -  12-30 : 2.5 hours project implementation
+
+12-30 - 1:30 - Lunch
+
+1:30-3:30 : Logical Programs
+
+4 - 6 : Frame works
+
+6 - 8 : Spring MVC class
+
+9 - 11 : Core Java
+-----------------------------------
+11:00 - 11:30 : Retrospective
+-----------------------------------
+
+
+
+
+
+
+
+
+
+
+What is Project?
+----------------
+Collection of Software programs is called as Software Project.
+
+Why to develop Software Projects?
+----------------------------------
+Software Projects are used to reduce human efforts.
+
+Ex: Ticket Booking, Money transferring, Online shopping, food delivery.
+
+----------------------------------------------------------------------
+Types of Companies
+---------------------------------------------------------------------
+1) Product based 
+
+2) Service based
+
+3) Consulting based
+
+4) Audit firms
+
+
+Product Based Companies
+------------------------
+1) These companies will develops products with their own ideas and they will sell in market.
+
+2) Product based companies will not have clients they will have customers.
+
+
+Ex : Dell, Samsung, Hp, Oracle, MS etc....
+
+In Product based companies interview will be on 
+core concepts like DataStructures, Algos and Design Patterns.
+
+
+Service Based Companies
+-----------------------
+2) These companies will develop projects based on clients requirements.
+
+Ex: TCS, Infosys, Wipro, TechM, Accenture, CG, CTS etc.....
+
+In Service Based companies interviews will be on latest technologies in market.
+
+Spring Boot, MicroServices, Angular etc....
+
+
+Consulting Based Companies
+--------------------------
+Permanent Job
+Contract Job
+
+
+Ex : YOu are emp of Magna InfotTech and you are working for IBM.
+
+
+Audit Firms
+-----------
+Business mens accounts management
+
+Company Accounts management
+
+Company Audits etc...
+
+
+Big4 : Deloitte, PWC, E & Y and KPMG.
+---------------------------------------------------------------------
+
+
+
+
+Types of Projects
+-----------------
+
+1) Scratch Development Projects (5%-10%)
+
+    - > Brand New Projects are called as scratch development
+
+2) Maintenence/Support Projects (85 %)
+
+		 - Enchancements
+		 - Change Request
+		 - M & O (Bug Fixing)
+
+3) Migration Projects (10%)
+	
+		java version migration
+		server version migration
+		mainframes to java migration
+
+Project Teams:
+---------------
+1) Onshore Team : Team which is working from client location
+	
+	a) Functional Team (Business Team)
+	b) Dev Team
+	c) Testing Team
+	d) Admin team
+
+2) Offshore Team : Team which is not working in client location.
+	
+	b) Dev Team
+	c) Testing
+	d) Admin
+
+Note : Onshore and Offshore teams will communicate through Brdige Calls (VOIP) or Skype Business or WebEx or VC.
+
+
+
+
+Project Development Procedure
+-----------------------------
+
+1) Company will make an agreement with Client For Project Development.
+
+2) OnShore Functional Team will collect requirements from Client.
+
+3) Onshore Functional team will prepare BRD (business requirement document) - High Level requriement document.
+
+4) Onshore team will submit BRD to client for approval.
+
+5) Client will provide approval for BRD.
+
+6) Onshore functional team will prepare FDD/SRS using BRD.
+
+	BRD - Business Requirement Document
+	FDD - Functional Design Document
+	SRS - Software requirement Specification
+
+7) Onshore functional team will submit FDD to client for approval.
+
+8) Client will provide FDD approval.
+
+9) Onshore Functional team will setup bridge calls with Offshore team to explain FDD.
+
+10) Onshore team will upload BRD and FDD in sharepoint location and they will Sharepoint URL to offshore team members.
+
+11) Using Sharepoint URL offshore team members will download BRD and FDD.
+
+12) Offshore team members will study FDD.
+
+13) Offshore team members will write queries in Query Log.
+
+14) OnShore team member will provide clarifications to queries.
+
+15) Daily Meetings will be available to get clarifications on query log.
+
+16) After meeting, we should send MoM (Minutes of Meeting).
+
+17) After all queries got clarified, Developer will prepare TDD
+
+	TDD - Technical Design document.
+
+ Note: MicroSoft Vision, Star UML, Enterprise Architect (EA)
+
+18) Developer should send TDD to project architect & functional team for approval.
+
+19) Architect and Functional spoc will provide approval for developer TDD.
+
+20) Post TDD approval , developer will start coding.
+
+21) Developer will perform Unit Testing. (Junit & Mockito)
+
+22) Code Review (PMD or SonarQube)
+
+23) Push Code to Repository Server (SVN or GitHub or BitBucket)
+
+24) Developer will perform Integration Testing (DIT)
+
+25) Developer should capture DIT Results (Dev Artifacts)
+
+26) SIT (system integration testing - software testers)
+
+27) UAT (User acceptance Testing - client side ppl)
+
+28) Pilot (similar to production/pre-production)
+
+29) Production - Live
+
+30) Maintenence & Operations (M & O).
+
+
+https://www.mediafire.com/file/rnk4x8r4sx1duod/Class-Notes.txt/file
+
+
+
+
+What are your Roles & Responsibilities
+--------------------------------------
+1) Collecting Requirements from Functional team in terms of BRD and FDD
+2) Understanding FDD
+3) Updating queries in Query Log (Excel file)
+4) Attending Meetings with functional team to get clarifications on    Queries which are logged in Query log.
+5) Sending MoM
+6) Preparing TDD
+7) Getting approval for TDD from Architect and Functional team
+8) Development
+9) Unit Testing (Junit and Mockito)
+10) Code Review (PMD or SonarQube)
+11) Pushing code to Repository (SVN or GIT HUB or BitBucket)
+12) Integration Testing 
+13) Capturing Dev Artifacts
+	(Testing results, junit reports,code review reports etc..)
+14) Support for SIT and UAT phases
+15) Participating in Triage calls.
+
+
+
+
+
+
+Project Environments ?
+----------------------
+How many environements are available for your project ?
+Who will promote code or build to higher environments ?
+How code will be promoted to higher environments?
+How you will fix bugs in higher environments ?
+
+
+Developer Environment (Dev Box) - Integration Testing. - developers
+
+SIT (System Integration Testing)- testers will test
+
+UAT (User Acceptance Testing) - client side team will test
+
+Pilot - performance testing
+
+Production - Live environment
+
+
+
+
+
+
+
+
+
+To : To all attendees
+CC : Lead and Manager
+
+Hi Team,
+
+Thanks for joining the call. Below is the summary of the call.
+Attendees : Ashok, Ramesh, Raju and Joseph.
+
+Discussed Points
+----------------
+1) password should be encrypted.
+2) After Registration successfull Email should be sent.
+3) Login Page should not contain Role Dropdown.
+
+Action Items
+------------
+1) Email Subject and Body should be provided by Joseph by Today EOD. 
+
+Note : Please add if i miss anything.
+
+Thanks & Regards,
+Ashok.
+
+----------------------Task assingment-----------------------------
+Hi Team,
+
+As discussed in triage call, today we have 7 defects open in UAT.
+
+Please find below assingments for today.
+
+Raju - BUG-101
+Ramesh - Bug-102
+Ashok - Bug-103
+
+
+Note : Please complete your checkins by 3 pm.
+
+Thanks,
+Lead.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
